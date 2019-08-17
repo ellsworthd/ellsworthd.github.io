@@ -1,0 +1,59 @@
+.has-image-centered {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.has-p-centered {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.card-subfooter {
+    background-color: transparent;
+    align-items: center;
+    display: flex;
+  }
+
+
+#gmaps{
+  width: 75vw;
+  height: 40vh; 
+
+}
+
+.modal-contactcard {
+  margin: 0 20px;
+  /*max-height: calc(100vh - 160px);*/
+  height: 90vh;
+  width: 90vw;
+  overflow: auto;
+  position: relative;
+  width: 100%;
+}
+
+  .bomgheader {
+    background-color: #fafafa;
+
+    margin-top: 0;
+    padding-top: 0px;
+    margin-bottom: 0;
+    padding-bottom: 0px;
+  }
+
+  .container.news{
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .container.bomgbody{
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+
+  .bomgfooter {
+    background-color: #fafafa;
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+    padding-bottom: 0px;
+  }
